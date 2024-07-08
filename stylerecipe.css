@@ -1,0 +1,30 @@
+header{
+    background-color: rgb(56, 135, 58);
+    padding: 10px;
+    text-align: center;
+}
+header h1{
+    color: white;
+}
+body{
+    margin: 0px;
+    padding: opx;
+    background-color: rgb(143, 168, 73);
+}
+div{
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-right: 35px;
+    background-color: rgb(145, 148, 146);
+    padding: 3px;
+
+}
+div p{
+    margin-left: 25px;
+    margin-right: 20px;
+
+}
+div h2{
+    margin-left: 35px;
+    color: rgb(177, 56, 32);
+}
